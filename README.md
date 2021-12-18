@@ -1,2 +1,3 @@
-# AdvancedOperatingSystems
-CMSC 621 Advanced Operating Systems
+# Bank Account Manager
+
+Centralized Multi-User Concurrent Bank Account Manager
